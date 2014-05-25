@@ -1,4 +1,7 @@
-Revision history for Perl extension Regexp::Log::Common
+Revision history for Regexp-Log-Common
+======================================
+
+        - fixed distribution name in META.
 
 0.08	2013-07-29
         - change file dates changed to meet W3CDTF standards.
