@@ -5,6 +5,7 @@ Revision history for Regexp-Log-Common
         - extended support of more LogFormat fields.
         - overhaul of documentation
         - move test data file into their own directory.
+        - added git repository links to metadata.
 
 0.08	2013-07-29
         - change file dates changed to meet W3CDTF standards.

@@ -34,6 +34,8 @@ no_index:
 resources:
   license:    http://www.perlfoundation.org/artistic_license_2_0
   bugtracker: http://rt.cpan.org/Public/Dist/Display.html?Name=Regexp-Log-Common
+  repository: http://github.com/barbie/regexp-log-common
+
 
 meta-spec:
    version:   1.4
