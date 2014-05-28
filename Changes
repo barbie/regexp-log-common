@@ -1,6 +1,7 @@
 Revision history for Regexp-Log-Common
 ======================================
 
+0.09    2014-05-28
         - fixed distribution name in META.
         - extended support of more LogFormat fields.
         - overhaul of documentation

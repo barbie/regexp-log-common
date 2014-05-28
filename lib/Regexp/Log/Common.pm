@@ -5,7 +5,7 @@ use strict;
 use base qw( Regexp::Log );
 use vars qw( $VERSION %DEFAULT %FORMAT %REGEXP );
 
-$VERSION = 0.08;
+$VERSION = 0.09;
 
 =head1 NAME
 
